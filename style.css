@@ -8,6 +8,7 @@
 #wrapper{
     height:100vh;
     overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
     overflow-y: auto;
 }
 
