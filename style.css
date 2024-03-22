@@ -36,7 +36,7 @@
     margin-bottom: 20px;
     border-radius: 10%;
     overflow: hidden;
-    display: cursor-pointer;
+    
 }
 
 .para img{
@@ -50,6 +50,7 @@
     transform: scale(1.03);
     transition: 0.3s;
     filter: drop-shadow(0 0 10px #333);
+    display: cursor-pointer;
 }
 
 .para:hover img{
